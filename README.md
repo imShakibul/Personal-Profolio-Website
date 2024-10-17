@@ -39,6 +39,7 @@ Welcome to my personal portfolio website! I am Shakib Islam, a web developer wit
    git clone https://github.com/imShakibul/Personal-Profolio-Website.git
 
 2. Navigate to the project directory:
+   ```bash
    cd portfolio-website
 Usage
 To view the website, open index.html in your browser. You can modify the code or assets as needed to personalize or enhance the website further.
