@@ -632,8 +632,11 @@ span{
         margin: 0 5rem;
     }
 }
-
 @media(max-width:991px) {
+    .home-image img {
+        width: 70vw;
+        max-width: 250px;
+    }
     header{
         padding: 2rem 3%;
     }
@@ -731,3 +734,37 @@ span{
     }
 }
 
+@media(max-width:600px) {
+    html{
+        font-size: 50%;
+    }
+    .home-content h1{
+        font-size: 4rem;
+    }
+    .home-content h3{
+        font-size: 2rem;
+    }
+    .home-content p{
+        font-size: 1.4rem;
+    }
+    .services h2, .testimonials .heading, .contact h2{
+        font-size: 4rem;
+    }
+    .services-container, .wrapper{
+        grid-template-columns: 1fr;
+    }
+    .footer ul li{
+        padding: 0 10px;
+    }
+    .footer ul li a{
+        font-size: 1.6rem;
+    }
+}
+@media(max-width:600px){
+    section{
+        padding: 5rem 2%;
+    }
+    .services-container {
+        margin: 0 2rem;
+    }
+}
