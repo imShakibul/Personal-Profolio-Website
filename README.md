@@ -40,7 +40,7 @@ Welcome to my personal portfolio website! I am Shakib Islam, a web developer wit
 
 2. Navigate to the project directory:
    ```bash
-   cd portfolio-website
+   cd Personal-Profolio-Website
 Usage
 To view the website, open index.html in your browser. You can modify the code or assets as needed to personalize or enhance the website further.
 
